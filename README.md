@@ -1,3 +1,3 @@
-# portfolio-site
+# Portfolio Site
+Udacity Project
 
-Projects that I will complete through the Udacity course of Front-End Web Developer Nanodegree
